@@ -1,5 +1,5 @@
 # BOXberry
-## Plywood organiser box made with a laser-cutting machine
+ Plywood organiser box made with a laser-cutting machine
 ## Product manufacturing process 
  Laser cutting process 
  
